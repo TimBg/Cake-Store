@@ -1,0 +1,167 @@
+{
+    "cakes": [
+        {
+            "id": 0,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Medovui_citrus_icon-480x480.png",
+            "name": "Медовый цитрус",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                26,
+                30,
+                40
+            ],
+            "price": 750,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Chornij_lis_Icon-480x480.webp",
+            "name": "Черный лес",
+            "types": [
+                0
+            ],
+            "sizes": [
+                26,
+                40
+            ],
+            "price": 500,
+            "category": 1,
+            "rating": 6
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/trufelnuu-480x480.webp",
+            "name": "Трюфельный",
+            "types": [
+                0
+            ],
+            "sizes": [
+                26,
+                40
+            ],
+            "price": 650,
+            "category": 1,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Smile_Top-1-480x480.webp",
+            "name": "Смайл",
+            "types": [
+                1
+            ],
+            "sizes": [
+                26,
+                30,
+                40
+            ],
+            "price": 450,
+            "category": 2,
+            "rating": 2
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Malinovuj_tArt_top.webp",
+            "name": "Малиновый",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                26,
+                30,
+                40
+            ],
+            "price": 900,
+            "category": 3,
+            "rating": 8
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Natali_Icon.webp",
+            "name": "Натали",
+            "types": [
+                0
+            ],
+            "sizes": [
+                30,
+                40
+            ],
+            "price": 575,
+            "category": 2,
+            "rating": 2
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Prajskij_Icon-480x480.webp",
+            "name": "Пражский",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                26,
+                30,
+                40
+            ],
+            "price": 630,
+            "category": 1,
+            "rating": 9
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Polunica_Icon-480x480.png",
+            "name": "Амур",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                26,
+                30,
+                40
+            ],
+            "price": 700,
+            "category": 4,
+            "rating": 10
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/Fruit_Feeria_Icon-480x480.png",
+            "name": "Фруктовая феерия",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                26,
+                30,
+                40
+            ],
+            "price": 450,
+            "category": 5,
+            "rating": 10
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://www.vatsak.com.ua/wp-content/uploads/tiramisu-480x480.webp",
+            "name": "Тирамису",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                26,
+                30,
+                40
+            ],
+            "price": 500,
+            "category": 5,
+            "rating": 7
+        }
+    ]
+}
