@@ -1,9 +1,9 @@
 Stack:
 
-ReactJS + хуки
-React Router
-Redux
-Redux thunk
-json-server
-Axios
-classnames
+ReactJS + hooks,
+React Router,
+Redux,
+Redux thunk,
+json-server,
+Axios,
+classnames.
